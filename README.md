@@ -47,7 +47,8 @@ _Ferramentas: Prophet, Sklearn, Pandas, Seaborn, Matplotlib_
 
 ## Artigos
 
-* Blabla
+* [A importância da cultura data-driven para o sucesso empresarial](https://medium.com/@sarahfrezende/a-import%C3%A2ncia-da-cultura-data-driven-para-o-sucesso-empresarial-bd04d78d5edd).
+* [O Papel Crucial do Entendimento de Negócios na Excelência do Analista de Dados](https://medium.com/@sarahfrezende/o-papel-crucial-do-entendimento-de-neg%C3%B3cios-na-excel%C3%AAncia-do-analista-de-dados-165f38fa1a50).
 
 ## Skills
 
@@ -56,8 +57,8 @@ _Ferramentas: Prophet, Sklearn, Pandas, Seaborn, Matplotlib_
 
 ## Links:
 
-* LinkedIn
-* Medium
-* Site
-* Email
+* [LinkedIn](https://www.linkedin.com/in/sarahfrezende/).
+* [Medium](https://medium.com/@sarahfrezende).
+* [Site](https://sarahfariarezende.blogspot.com/).
+  
 
