@@ -1,6 +1,6 @@
 # Portfólio - Ciência de Dados
 
-Neste repositório, estão contidas as análises elaboradas com propósitos educativos. Importante observar que os dados empregados nos projetos (localizados no diretório de dados) têm exclusivamente propósitos de demonstração. 
+Este repositório abriga uma coleção diversificada de projetos que exploram o campo da ciência e análise de dados.. Importante observar que os dados empregados nos projetos (localizados no diretório de dados) têm exclusivamente propósitos de demonstração. 
 
 ## Passos para Executar os Notebooks Python Localmente:
 
