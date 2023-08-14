@@ -2,11 +2,6 @@
 
 Este repositório abriga uma coleção diversificada de projetos que exploram o campo da ciência e análise de dados.. Importante observar que os dados empregados nos projetos (localizados no diretório de dados) têm exclusivamente propósitos de demonstração. 
 
-## Passos para Executar os Notebooks Python Localmente:
-
-1. Realize a instalação das dependências requeridas.
-2. Prossiga com a execução dos notebooks como habitual, utilizando um servidor Jupyter Notebook, Visual Studio Code, ou ferramenta similar.
-
 ## Projetos
 
 * ### Análise Explorátoria
