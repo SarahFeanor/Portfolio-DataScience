@@ -2,7 +2,11 @@
 
 # Portfólio - Ciência de Dados 
 
-Este repositório abriga uma coleção diversificada de projetos que exploram o campo da ciência e análise de dados.. Importante observar que os dados empregados nos projetos (localizados no diretório de dados) têm exclusivamente propósitos de demonstração. 📊📚🔍💡
+<sub> >> Data Scientist | Data Analyst | BI Analyst |  </sub>
+
+Este repositório abriga uma coleção diversificada de projetos que exploram o campo da ciência e análise de dados. 
+
+Importante observar que os dados empregados nos projetos (localizados no diretório de dados) têm exclusivamente propósitos de demonstração. 📊📚🔍💡
 
 ## Projetos 
 
@@ -49,6 +53,8 @@ _Ferramentas: Tensorflow, Sklearn, Pandas, Numpy, Seaborn, Matplotlib_
 
 * [A importância da cultura data-driven para o sucesso empresarial](https://medium.com/@sarahfrezende/a-import%C3%A2ncia-da-cultura-data-driven-para-o-sucesso-empresarial-bd04d78d5edd).
 * [O Papel Crucial do Entendimento de Negócios na Excelência do Analista de Dados](https://medium.com/@sarahfrezende/o-papel-crucial-do-entendimento-de-neg%C3%B3cios-na-excel%C3%AAncia-do-analista-de-dados-165f38fa1a50).
+* [Recomendações Personalizadas: Elevando o Engajamento e as Vendas através do Aprendizado de Máquina](https://medium.com/@sarahfrezende/recomenda%C3%A7%C3%B5es-personalizadas-elevando-o-engajamento-e-as-vendas-atrav%C3%A9s-do-aprendizado-de-m%C3%A1quina-a2b0d47a478d).
+* [Diagnóstico Médico Assistido por Computador: Uma Abordagem Inovadora com Machine Learning](https://medium.com/@sarahfrezende/diagn%C3%B3stico-m%C3%A9dico-assistido-por-computador-uma-abordagem-inovadora-com-machine-learning-5d10a44f191).
 
 ## 📚 Skills
 
