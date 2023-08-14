@@ -2,17 +2,15 @@
 
 # Portfólio - Ciência de Dados 
 
-<sub> >> Data Scientist | Data Analyst | BI Analyst |  </sub>
+Este repositório abriga uma coleção diversificada de projetos que exploram o campo da ciência e análise de dados.
 
-Este repositório abriga uma coleção diversificada de projetos que exploram o campo da ciência e análise de dados. 
-
-Importante observar que os dados empregados nos projetos (localizados no diretório de dados) têm exclusivamente propósitos de demonstração. 📊📚🔍💡
+Importante observar que os dados empregados nos projetos (localizados no diretório de dados) têm exclusivamente propósitos de demonstração. 
 
 ## Projetos 
 
 ## ⚡️ Análise Explorátoria
 
-  * Análise dos Dados do Airbnb em Hong Kong: Uma análise dos dados do Airbnb na cidade de Hong Kong, utilizando ferramentas de análise estatística para entender os preços médios, tipos de imóveis disponíveis e suas localizações. Além disso, o notebook apresenta visualizações e insights sobre as avaliações dos usuários e os requisitos mais buscados pelos hóspedes.
+  * Análise dos Dados do Airbnb em Tokyo: Este notebook realiza uma análise dos dados do Airbnb na cidade de Tóquio, Japão. Utilizando ferramentas de análise estatística, o objetivo é compreender os preços médios, os tipos de propriedades disponíveis e suas distribuições geográficas. Adicionalmente, o notebook oferece visualizações e insights relacionados às avaliações dos usuários e às principais preferências buscadas pelos hóspedes.
   
   * Panorama da COVID-19: Uma análise dos dados da COVID-19 em nível mundial, utilizando ferramentas de visualização para apresentar a evolução dos casos confirmados, mortes e taxas de recuperação em diferentes países. Além disso, o notebook apresenta uma análise dos dados em relação à densidade populacional e IDH dos países, buscando entender possíveis fatores que influenciam a disseminação da doença.
 
@@ -28,7 +26,7 @@ _Ferramentas: Pandas, Seaborn, Matplotlib_
     
   _Ferramentas: Sklearn, Imblearn, Pandas, Seaborn, Matplotlib_
 
-## ⚡️ Auto Machine Learning
+## ⚡️ Auto Machine Learning 
 
   * Classificação de Saúde Fetal: Neste projeto, é desenvolvido um modelo de classificação para prever a saúde fetal com base em dados clínicos. São utilizadas técnicas de pré-processamento e análise exploratória para entender a distribuição dos dados e identificar possíveis correlações entre as variáveis. Em seguida, diferentes modelos de aprendizado de máquina são treinados e avaliados para encontrar o que apresenta o melhor desempenho na classificação das diferentes condições de saúde fetal.
 
@@ -58,8 +56,10 @@ _Ferramentas: Tensorflow, Sklearn, Pandas, Numpy, Seaborn, Matplotlib_
 
 ## 📚 Skills
 
-* Possuo conhecimentos em Python com foco em Análise de Dados e Ciência de Dados, bem como habilidades em bibliotecas essenciais como Pandas, Numpy, Scikit-Learn e Matplotlib. 
-* Adicionalmente, possuo competências em SQL/MySQL, ETL, Power BI, DataBricks, criação de narrativas com dados, conhecimentos estatísticos, análises preditivas e interpretação de séries temporais. Essa combinação me capacita a elaborar e avaliar procedimentos e dados em sistemas de bancos de dados, satisfazendo as demandas dos clientes de maneira eficaz.
+<sub> Data Scientist | Data Analyst | BI Analyst   </sub>
+
+* Possuo conhecimentos em **Python** com foco em Análise de Dados e Ciência de Dados, bem como habilidades em bibliotecas essenciais como **Pandas**, **Numpy**, **Scikit-Learn** e **Matplotlib**. 
+* Adicionalmente, possuo competências em **SQL/MySQL**, **ETL**, **Power BI**, **Excel**, **DataBricks**, criação de narrativas com dados, conhecimentos estatísticos, análises preditivas e interpretação de séries temporais. Essa combinação me capacita a elaborar e avaliar procedimentos e dados em sistemas de bancos de dados, satisfazendo as demandas dos clientes de maneira eficaz. 📊🔍💡
 
 ## 🔗Links
 
