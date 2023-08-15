@@ -66,6 +66,6 @@ _Ferramentas: Tensorflow, Sklearn, Pandas, Numpy, Seaborn, Matplotlib_
 * [LinkedIn](https://www.linkedin.com/in/sarahfrezende/).
 * [Medium](https://medium.com/@sarahfrezende).
 * [Site](https://sarahfariarezende.blogspot.com/).
-* [Portfólio Power BI]()
+* [Portfólio Power BI](https://github.com/SarahFeanor/Portfolio_PowerBI)
   
 
