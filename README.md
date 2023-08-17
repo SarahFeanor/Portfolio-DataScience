@@ -1,4 +1,5 @@
 [![capa](https://cdn.discordapp.com/attachments/1088554408469602305/1140659228382613654/Black_Technology_LinkedIn_Banner_5.jpg)](https://github.com/SarahFeanor?tab=repositories)
+### Sarah Faria Rezende 
 
 # Portfólio - Ciência de Dados 
 
