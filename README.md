@@ -48,7 +48,7 @@ _Ferramentas: Tensorflow, Sklearn, Pandas, Numpy, Seaborn, Matplotlib_
     
   _Ferramentas: Prophet, Sklearn, Pandas, Seaborn, Matplotlib_
 
-## 📚 Estudo 
+## 📚 Conteúdo de Estudo
 
 * [ Conjunto de Comandos, funções e bibliotecas que utilizo em minhas análises](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/functions-comands-libs.md)
 
