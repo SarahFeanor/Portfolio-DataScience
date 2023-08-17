@@ -2,7 +2,8 @@
 
 # ⚡ Functions - Commands - Libraries
 
-Neste repositório, você encontrará uma seleção dos comandos, funções e bibliotecas que utilizo em minhas análises.
+Este espaço foi concebido com o propósito de fortalecer e aprofundar meus estudos.
+Neste repositório, você descobrirá uma compilação dos comandos, funções e bibliotecas que faço uso em minhas análises. 
 
 ## 🔹 _Pandas_
 
