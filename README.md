@@ -1,7 +1,7 @@
 [![capa](https://cdn.discordapp.com/attachments/1088554408469602305/1140659228382613654/Black_Technology_LinkedIn_Banner_5.jpg)](https://github.com/SarahFeanor?tab=repositories)
-### Sarah Faria Rezende 
+# Sarah Faria Rezende 
 
-# Portfólio - Ciência de Dados 
+### Portfólio - Ciência de Dados 
 
 Este repositório abriga uma coleção diversificada de projetos que exploram o campo da ciência e análise de dados.
 
