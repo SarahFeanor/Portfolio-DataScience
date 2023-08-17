@@ -112,7 +112,7 @@ diretamente no notebook, facilitando a análise interativa de dados.
 import matplotlib.pyplot as plt
 
 ```
-### Gráficos
+### 🔸 Gráficos
 * O **%matplotlib inline** é "magic command" específica da interface do IPython (um interpretador interativo do Python) que está 
 frequentemente usado em notebooks Jupyter para controlar o comportamento dos gráficos gerados pela biblioteca Matplotlib. Ao utilizar _%matplotlib inline_ em um notebook, você faz com que os gráficos gerados pelo Matplotlib sejam exibidos automaticamente abaixo do 
 código correspondente. Isso é útil para análise de dados e visualizações. Sem isso, seria necessário usar _plt.show()_ para mostrar gráficos. A partir do 
