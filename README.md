@@ -48,6 +48,10 @@ _Ferramentas: Tensorflow, Sklearn, Pandas, Numpy, Seaborn, Matplotlib_
     
   _Ferramentas: Prophet, Sklearn, Pandas, Seaborn, Matplotlib_
 
+## 📚 Estudo 
+
+* [ Conjunto de Comandos, funções e bibliotecas que utilizo em minhas análises](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/functions-comands-libs.md)
+
 ## 📝 Artigos
 
 * [A importância da cultura data-driven para o sucesso empresarial](https://medium.com/@sarahfrezende/a-import%C3%A2ncia-da-cultura-data-driven-para-o-sucesso-empresarial-bd04d78d5edd).
