@@ -154,7 +154,7 @@ de calor. Popular entre cientistas de dados, o Seaborn melhora a comunicação d
 import seaborn as sns
 ```
 ---
-## 🔹 _Missigno_
+## 🔹 _Missingno_
 
 * A biblioteca "missingno" em Python **visualiza dados ausentes** em conjuntos de dados, fornecendo gráficos para identificar claramente as 
 áreas sem valores e padrões de ausência. Características incluem matriz de valores ausentes, gráfico de barras e mapa de calor, 
