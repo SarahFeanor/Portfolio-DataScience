@@ -19,21 +19,20 @@ _Ferramentas: Pandas, Seaborn, Matplotlib_
 
 ## ⚡️ Machine Learning
 
-  * [Detecção de Fraudes em Cartões de Crédito](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/null.md): Neste projeto, é utilizada uma base de dados de transações de cartões de crédito para desenvolver um modelo de aprendizado de máquina capaz de identificar fraudes. São utilizadas técnicas de pré-processamento, análise exploratória e seleção de atributos para treinar modelos de classificação, buscando maximizar a identificação de transações fraudulentas e minimizar falsos positivos.
-  
-  * [Churn Prediction](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/null.md): Neste projeto, é desenvolvido um modelo de aprendizado de máquina para prever a taxa de churn de clientes em uma empresa fictícia. São utilizadas técnicas de pré-processamento, análise exploratória e seleção de atributos para treinar modelos de classificação, buscando prever quais clientes têm maior probabilidade de abandonar a empresa e identificar possíveis fatores que influenciam nessa decisão. O objetivo final é ajudar a empresa a tomar medidas preventivas para reduzir a taxa de churn e aumentar a retenção de clientes.
-
   * [Credit Risk Analysis](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/null.md): Neste projeto, é utilizada uma base de dados financeiros de clientes para desenvolver um modelo de aprendizado de máquina capaz de avaliar o risco de crédito. O objetivo é prever a probabilidade de um cliente não cumprir com suas obrigações financeiras, o que é conhecido como default. São utilizadas técnicas de pré-processamento para preparar os dados para o treinamento do modelo. Isso pode envolver a limpeza dos dados, tratamento de valores ausentes, e a transformação de variáveis categóricas em numéricas, além de feature engineering, feature selection e balanceamento de classes
+
+  * [Churn Prediction](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/null.md): Neste projeto, é desenvolvido um modelo de aprendizado de máquina para prever a taxa de churn de clientes em uma empresa fictícia. São utilizadas técnicas de pré-processamento, análise exploratória e seleção de atributos para treinar modelos de classificação, buscando prever quais clientes têm maior probabilidade de abandonar a empresa e identificar possíveis fatores que influenciam nessa decisão. O objetivo final é ajudar a empresa a tomar medidas preventivas para reduzir a taxa de churn e aumentar a retenção de clientes.
+    
+  *   [Detecção de Fraudes em Cartões de Crédito](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/null.md): Neste projeto, é utilizada uma base de dados de transações de cartões de crédito para desenvolver um modelo de aprendizado de máquina capaz de identificar fraudes. São utilizadas técnicas de pré-processamento, análise exploratória e seleção de atributos para treinar modelos de classificação, buscando maximizar a identificação de transações fraudulentas e minimizar falsos positivos.
     
   _Ferramentas: Sklearn, Imblearn, Pandas, Seaborn, Matplotlib_
+  
+## ⚡️ Séries Temporais
 
-## ⚡️ Auto Machine Learning 
+  * [Previsão de Demanda de Vinhos com Séries Temporais](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/null.md): : Neste projeto, é desenvolvido um modelo de previsão de demanda de vinhos com base em séries temporais. São utilizados dados históricos de vendas para treinar e testar diferentes modelos de previsão, como ARIMA, Prophet e LSTM. São utilizadas técnicas de pré-processamento e análise exploratória para entender a distribuição dos dados e identificar possíveis tendências e sazonalidades. O objetivo final é ajudar uma vinícola a antecipar a demanda por seus produtos e otimizar sua produção e distribuição.
 
-  * [Classificação de Saúde Fetal](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/null.md): Neste projeto, é desenvolvido um modelo de classificação para prever a saúde fetal com base em dados clínicos. São utilizadas técnicas de pré-processamento e análise exploratória para entender a distribuição dos dados e identificar possíveis correlações entre as variáveis. Em seguida, diferentes modelos de aprendizado de máquina são treinados e avaliados para encontrar o que apresenta o melhor desempenho na classificação das diferentes condições de saúde fetal.
-
-  * [Previsão de Custos de Seguro de Saúde](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/null.md): Neste projeto, é desenvolvido um modelo de regressão para prever os custos de seguro de saúde com base em informações sobre os segurados. São utilizadas técnicas de pré-processamento e análise exploratória para entender a distribuição dos dados e identificar possíveis correlações entre as variáveis. Em seguida, diferentes modelos de regressão são treinados e avaliados para encontrar o que apresenta o melhor desempenho na previsão dos custos de seguro de saúde. O objetivo final é ajudar as seguradoras a estimar os custos de seus segurados e definir preços mais justos para seus planos de saúde.
-
-  _Ferramentas: Pycaret, Sklearn, Imblearn, Pandas, Seaborn, Matplotlib_
+    
+  _Ferramentas: Prophet, Sklearn, Pandas, Seaborn, Matplotlib_
 
 ## ⚡️ Deep Learning
 
@@ -41,12 +40,14 @@ _Ferramentas: Pandas, Seaborn, Matplotlib_
 
 _Ferramentas: Tensorflow, Sklearn, Pandas, Numpy, Seaborn, Matplotlib_
 
-## ⚡️ Séries Temporais
+## ⚡️ Auto Machine Learning 
 
-  * [Previsão de Demanda de Vinhos com Séries Temporais](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/null.md): : Neste projeto, é desenvolvido um modelo de previsão de demanda de vinhos com base em séries temporais. São utilizados dados históricos de vendas para treinar e testar diferentes modelos de previsão, como ARIMA, Prophet e LSTM. São utilizadas técnicas de pré-processamento e análise exploratória para entender a distribuição dos dados e identificar possíveis tendências e sazonalidades. O objetivo final é ajudar uma vinícola a antecipar a demanda por seus produtos e otimizar sua produção e distribuição.
+  * [Previsão de Custos de Seguro de Saúde](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/null.md): Neste projeto, é desenvolvido um modelo de regressão para prever os custos de seguro de saúde com base em informações sobre os segurados. São utilizadas técnicas de pré-processamento e análise exploratória para entender a distribuição dos dados e identificar possíveis correlações entre as variáveis. Em seguida, diferentes modelos de regressão são treinados e avaliados para encontrar o que apresenta o melhor desempenho na previsão dos custos de seguro de saúde. O objetivo final é ajudar as seguradoras a estimar os custos de seus segurados e definir preços mais justos para seus planos de saúde.
 
-    
-  _Ferramentas: Prophet, Sklearn, Pandas, Seaborn, Matplotlib_
+ * [Classificação de Saúde Fetal](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/null.md): Neste projeto, é desenvolvido um modelo de classificação para prever a saúde fetal com base em dados clínicos. São utilizadas técnicas de pré-processamento e análise exploratória para entender a distribuição dos dados e identificar possíveis correlações entre as variáveis. Em seguida, diferentes modelos de aprendizado de máquina são treinados e avaliados para encontrar o que apresenta o melhor desempenho na classificação das diferentes condições de saúde fetal.
+
+  _Ferramentas: Pycaret, Sklearn, Imblearn, Pandas, Seaborn, Matplotlib_
+
 
 ## 📚 Conteúdo de Estudo
 
