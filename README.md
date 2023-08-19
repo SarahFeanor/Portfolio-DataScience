@@ -25,6 +25,8 @@ _Ferramentas: Pandas, Seaborn, Matplotlib_
     
   *   [Detecção de Fraudes em Cartões de Crédito](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/null.md): Neste projeto, é utilizada uma base de dados de transações de cartões de crédito para desenvolver um modelo de aprendizado de máquina capaz de identificar fraudes. São utilizadas técnicas de pré-processamento, análise exploratória e seleção de atributos para treinar modelos de classificação, buscando maximizar a identificação de transações fraudulentas e minimizar falsos positivos.
     
+  * [Previsão de Preços de Imóveis em Belo Horizonte - Utilizando Regressão Linear](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/C%C3%B3pia_de_Modelo_Para_Prever_Pre%C3%A7os_De_Casas_RegressaoLinear.ipynb) Este projeto analisa dados de propriedades na cidade, aplicando técnicas de regressão linear para prever valores de imóveis. Combinando análise estatística e insights geográficos, busca-se compreender melhor o mercado imobiliário da região.
+    
   _Ferramentas: Sklearn, Imblearn, Pandas, Seaborn, Matplotlib_
   
 ## ⚡️ Séries Temporais
