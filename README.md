@@ -13,7 +13,7 @@ Importante observar que os dados empregados nos projetos (localizados no diretó
 
   * [Análise dos Dados do Airbnb em Tokyo](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/An%C3%A1lise_dos_Dados_do_Airbnb_em_Tokyo.ipynb): Este notebook realiza uma análise dos dados do Airbnb na cidade de Tóquio, Japão. Utilizando ferramentas de análise estatística, o objetivo é compreender os preços médios, os tipos de propriedades disponíveis e suas distribuições geográficas. Adicionalmente, o notebook oferece visualizações e insights relacionados às avaliações dos usuários e às principais preferências buscadas pelos hóspedes.
   
-  * [Análise Global da COVID-19](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/Analise_Covid-19.ipynb): Um panorama global dos dados da COVID-19, empregando ferramentas de visualização para ilustrar a trajetória dos casos confirmados, óbitos e taxas de recuperação em diversas nações. Além disso, o notebook oferece uma investigação dos dados correlacionados à densidade populacional e ao Índice de Desenvolvimento Humano (IDH) dos países, com o intuito de identificar potenciais fatores que impactam a propagação da doença.
+  * [Análise Global da COVID-19](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/Analise_Covid_19.ipynb): Um panorama global dos dados da COVID-19, empregando ferramentas de visualização para ilustrar a trajetória dos casos confirmados, óbitos e taxas de recuperação em diversas nações. Além disso, o notebook oferece uma investigação dos dados correlacionados à densidade populacional e ao Índice de Desenvolvimento Humano (IDH) dos países, com o intuito de identificar potenciais fatores que impactam a propagação da doença.
 
 _Ferramentas: Pandas, Seaborn, Matplotlib_
 
