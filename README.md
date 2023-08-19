@@ -17,15 +17,14 @@ _Ferramentas: Pandas, Seaborn, Matplotlib_
 
 ## ⚡️ Machine Learning
 
+ * [Análise de departamento de RH](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/An%C3%A1lise_de_departamento_de_RH.ipynb)  Neste projeto identificamos potenciais elementos que influenciam os pedidos de demissão dos colaboradores. Também aplicamos modelos de machine learning ao conjunto de dados para prever quais funcionários estão mais propensos a sair da empresa e avaliar a eficácia desses modelos com base em métricas como precisão, recall e pontuação.
+
   * [Credit Risk Analysis](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/null.md): Neste projeto, é utilizada uma base de dados financeiros de clientes para desenvolver um modelo de aprendizado de máquina capaz de avaliar o risco de crédito. O objetivo é prever a probabilidade de um cliente não cumprir com suas obrigações financeiras, o que é conhecido como default. São utilizadas técnicas de pré-processamento para preparar os dados para o treinamento do modelo. Isso pode envolver a limpeza dos dados, tratamento de valores ausentes, e a transformação de variáveis categóricas em numéricas, além de feature engineering, feature selection e balanceamento de classes
 
   * [Churn Prediction](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/null.md): Neste projeto, é desenvolvido um modelo de aprendizado de máquina para prever a taxa de churn de clientes em uma empresa fictícia. São utilizadas técnicas de pré-processamento, análise exploratória e seleção de atributos para treinar modelos de classificação, buscando prever quais clientes têm maior probabilidade de abandonar a empresa e identificar possíveis fatores que influenciam nessa decisão. O objetivo final é ajudar a empresa a tomar medidas preventivas para reduzir a taxa de churn e aumentar a retenção de clientes.
     
   *  [Detecção de Fraudes em Cartões de Crédito](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/null.md): Neste projeto, é utilizada uma base de dados de transações de cartões de crédito para desenvolver um modelo de aprendizado de máquina capaz de identificar fraudes. São utilizadas técnicas de pré-processamento, análise exploratória e seleção de atributos para treinar modelos de classificação, buscando maximizar a identificação de transações fraudulentas e minimizar falsos positivos.
     
-  * [Análise de departamento de RH](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/An%C3%A1lise_de_departamento_de_RH.ipynb)  Neste projeto identificamos potenciais elementos que influenciam os pedidos de demissão dos colaboradores. Também aplicamos modelos de machine learning ao conjunto de dados para prever quais funcionários estão mais propensos a sair da empresa e avaliar a eficácia desses modelos com base em métricas como precisão, recall e pontuação.
-    
-  * [Previsão de Preços de Imóveis em Belo Horizonte - Utilizando Regressão Linear](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/C%C3%B3pia_de_Modelo_Para_Prever_Pre%C3%A7os_De_Casas_RegressaoLinear.ipynb) Este projeto analisa dados de propriedades na cidade, aplicando técnicas de regressão linear para prever valores de imóveis. Combinando análise estatística e insights geográficos, busca-se compreender melhor o mercado imobiliário da região.
     
   _Ferramentas: Sklearn, Imblearn, Pandas, Seaborn, Matplotlib_
   
