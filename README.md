@@ -1,4 +1,7 @@
 ama[![capa](https://cdn.discordapp.com/attachments/1088554408469602305/1140659228382613654/Black_Technology_LinkedIn_Banner_5.jpg)](https://github.com/SarahFeanor?tab=repositories)
+
+<sub> 🔗 [LinkedIn](https://www.linkedin.com/in/sarahfrezende/) | [Medium](https://medium.com/@sarahfrezende) | [Portfólio Power BI](https://github.com/SarahFeanor/Portfolio_PowerBI)
+
 # Portfólio - Ciência de Dados 
 
 Este repositório abriga uma coleção diversificada de projetos que exploram o campo da ciência e análise de dados.
@@ -69,11 +72,6 @@ _Ferramentas: Tensorflow, Sklearn, Pandas, Numpy, Seaborn, Matplotlib_
 * Possuo conhecimentos em **Python** com foco em Análise de Dados e Ciência de Dados, bem como habilidades em bibliotecas essenciais como **Pandas**, **Numpy**, **Scikit-Learn** e **Matplotlib**. 
 * Adicionalmente, possuo competências em **SQL/MySQL**, **ETL**, **Power BI**, **Excel**, **DataBricks**, criação de narrativas com dados, conhecimentos estatísticos, análises preditivas e interpretação de séries temporais. Essa combinação me capacita a elaborar e avaliar procedimentos e dados em sistemas de bancos de dados, satisfazendo as demandas dos clientes de maneira eficaz. 📊🔍💡
 
-## 🔗Links
 
-* [LinkedIn](https://www.linkedin.com/in/sarahfrezende/).
-* [Medium](https://medium.com/@sarahfrezende).
-* [Site](https://sarahfariarezende.blogspot.com/).
-* [Portfólio Power BI](https://github.com/SarahFeanor/Portfolio_PowerBI)
   
 
