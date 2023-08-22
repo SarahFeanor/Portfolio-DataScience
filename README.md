@@ -27,31 +27,9 @@ _Ferramentas: Pandas, Seaborn, Matplotlib_
   * [Análise de Churn: Antevendo a Perda de Clientes](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/Churn_Prediction.ipynb): Neste projeto, empreendemos na criação de um modelo de aprendizado de máquina destinado a antever a taxa de evasão de clientes em uma empresa fictícia. Através da aplicação de técnicas de pré-processamento, exploração analítica e seleção criteriosa de atributos, buscamos aprimorar modelos de classificação, visando prognosticar quais clientes apresentam maior probabilidade de desvinculação da empresa. Além disso, almejamos identificar potenciais determinantes dessa decisão. Nosso desiderato último é capacitar a empresa a adotar medidas preventivas que atenuem a taxa de evasão, elevando, por conseguinte, a retenção de clientes.
     
   *  [Detecção de Fraudes em Cartões de Crédito](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/Detec%C3%A7%C3%A3o_de_fraude.ipynb): Neste projeto, utilizamos uma base de dados contendo transações de cartões de crédito, com o propósito de construir um modelo de aprendizado de máquina com habilidades discriminativas para detecção de fraudes. Através da aplicação de técnicas de pré-processamento, análise exploratória e meticulosa seleção de atributos, fomentamos o treinamento de modelos de classificação, com o objetivo de otimizar a identificação de transações fraudulentas e, concomitantemente, reduzir ao mínimo os falsos positivos.
-    
-    
+        
   _Ferramentas: Sklearn, Imblearn, Pandas, Seaborn, Matplotlib_
-  
-## ⚡️ Séries Temporais
-
-  * [Previsão de Demanda de Vinhos com Séries Temporais](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/null.md): : Neste projeto, é desenvolvido um modelo de previsão de demanda de vinhos com base em séries temporais. São utilizados dados históricos de vendas para treinar e testar diferentes modelos de previsão, como ARIMA, Prophet e LSTM. São utilizadas técnicas de pré-processamento e análise exploratória para entender a distribuição dos dados e identificar possíveis tendências e sazonalidades. O objetivo final é ajudar uma vinícola a antecipar a demanda por seus produtos e otimizar sua produção e distribuição.
-
-    
-  _Ferramentas: Prophet, Sklearn, Pandas, Seaborn, Matplotlib_
-
-## ⚡️ Deep Learning
-
-  * [Classificador de Fake News](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/null.md): Neste projeto, desenvolvemos um modelo de classificação de notícias como verdadeiras ou falsas, por meio de redes neurais. O objetivo é criar um classificador de aprendizado de máquina capaz de detectar automaticamente notícias falsas, auxiliando no combate à desinformação. Utilizando um conjunto de treinamento de notícias rotuladas, o modelo é treinado para identificar padrões e distinguir entre notícias verdadeiras e falsas. Esse projeto contribui para a identificação e mitigação da propagação de informações enganosas, visando a promoção de um ambiente informacional mais confiável e seguro.
-
-_Ferramentas: Tensorflow, Sklearn, Pandas, Numpy, Seaborn, Matplotlib_
-
-## ⚡️ Auto Machine Learning 
-
-  * [Previsão de Custos de Seguro de Saúde](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/null.md): Neste projeto, é desenvolvido um modelo de regressão para prever os custos de seguro de saúde com base em informações sobre os segurados. São utilizadas técnicas de pré-processamento e análise exploratória para entender a distribuição dos dados e identificar possíveis correlações entre as variáveis. Em seguida, diferentes modelos de regressão são treinados e avaliados para encontrar o que apresenta o melhor desempenho na previsão dos custos de seguro de saúde. O objetivo final é ajudar as seguradoras a estimar os custos de seus segurados e definir preços mais justos para seus planos de saúde.
-
- * [Classificação de Saúde Fetal](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/null.md): Neste projeto, é desenvolvido um modelo de classificação para prever a saúde fetal com base em dados clínicos. São utilizadas técnicas de pré-processamento e análise exploratória para entender a distribuição dos dados e identificar possíveis correlações entre as variáveis. Em seguida, diferentes modelos de aprendizado de máquina são treinados e avaliados para encontrar o que apresenta o melhor desempenho na classificação das diferentes condições de saúde fetal.
-
-  _Ferramentas: Pycaret, Sklearn, Imblearn, Pandas, Seaborn, Matplotlib_
-
+ 
 
 ## 📚 Conteúdo de Estudo
 
