@@ -33,7 +33,8 @@ _Ferramentas: Pandas, Seaborn, Matplotlib_
   ## ⚡️ Auto Machine Learning 
 
   * [Previsão de Risco de Câncer Cervical aplicandio Auto Machine Learning (PyCaret)](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/previsao_de_risco_cancer.ipynb): Neste projeto, utilizei a biblioteca de Auto Machine Learning Pycaret para desenvolver um modelo que possa prever o risco de câncer cervical com base em fatores de risco e características dos pacientes.
- 
+
+ _Ferramentas: Pycaret, Sklearn, Imblearn, Pandas, Seaborn, Matplotlib_
 
 ## 📚 Conteúdo de Estudo
 
