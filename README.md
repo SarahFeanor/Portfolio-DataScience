@@ -29,6 +29,10 @@ _Ferramentas: Pandas, Seaborn, Matplotlib_
   *  [Detecção de Fraudes em Cartões de Crédito](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/Detec%C3%A7%C3%A3o_de_fraude.ipynb): Neste projeto, utilizamos uma base de dados contendo transações de cartões de crédito, com o propósito de construir um modelo de aprendizado de máquina com habilidades discriminativas para detecção de fraudes. Através da aplicação de técnicas de pré-processamento, análise exploratória e meticulosa seleção de atributos, fomentamos o treinamento de modelos de classificação, com o objetivo de otimizar a identificação de transações fraudulentas e, concomitantemente, reduzir ao mínimo os falsos positivos.
         
   _Ferramentas: Sklearn, Imblearn, Pandas, Seaborn, Matplotlib_
+
+  ## ⚡️ Auto Machine Learning 
+
+  * [Previsão de Risco de Câncer Cervical aplicandio Auto Machine Learning (PyCaret)](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/previsao_de_risco_cancer.ipynb): Neste projeto, utilizei a biblioteca de Auto Machine Learning Pycaret para desenvolver um modelo que possa prever o risco de câncer cervical com base em fatores de risco e características dos pacientes.
  
 
 ## 📚 Conteúdo de Estudo
