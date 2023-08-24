@@ -4,12 +4,17 @@
  | [Portfólio Power BI](https://github.com/SarahFeanor/Portfolio_PowerBI)
 
 
-# PYTHON
+# PYTHON 🐍
+
+Este espaço foi concebido com o propósito de fortalecer e aprofundar meus estudos.
+Neste repositório, você descobrirá uma compilação dos comandos, funções e bibliotecas que faço uso em minhas análises. 
+
+---
 
 <details>
 <summary>PANDAS</summary>
 
-## PANDAS 
+## 🔹 PANDAS 
 
 O pandas é uma biblioteca poderosa e amplamente utilizada em Python para análise de dados e manipulação de estruturas de dados tabulares. 
 Aqui estão algumas das principais funções do pandas:
@@ -122,7 +127,7 @@ A biblioteca é amplamente usada por cientistas de dados e analistas para tarefa
 <details>
 <summary>NUMPY</summary>
  
-## NUMPY
+## 🔹 NUMPY
 O NumPy é uma biblioteca fundamental para computação numérica em Python, e oferece uma ampla variedade de funções para manipulação de arrays, cálculos matemáticos e operações de álgebra linear. Abaixo estão algumas das principais funções do NumPy:
 
 ### Criação de Arrays:
@@ -190,7 +195,7 @@ np.argsort(): Retorna os índices que ordenariam o array.
 <details>
 <summary>MATPLOTLIB</summary>
  
-## MATPLOTLIB
+## 🔹 MATPLOTLIB
 
 O Matplotlib é uma biblioteca popular para criação de visualizações gráficas em Python. Aqui estão alguns dos principais comandos e funções do Matplotlib:
 
@@ -243,7 +248,7 @@ O Matplotlib é uma biblioteca popular para criação de visualizações gráfic
 <details>
 <summary>SEABORN</summary>
 
-## SEABORN
+## 🔹 SEABORN
 
 O Seaborn é uma biblioteca de visualização de dados baseada no Matplotlib, projetada para criar visualizações estatísticas atraentes e informativas.
 Aqui estão alguns dos principais comandos e funções do Seaborn:
@@ -326,7 +331,7 @@ A biblioteca é altamente configurável e versátil, permitindo criar uma ampla 
 <details>
 <summary>PLOTLY</summary>
 
- ## PLOTLY
+ ## 🔹 PLOTLY
 
 O Plotly é uma biblioteca em Python que permite criar visualizações interativas e de alta qualidade. Aqui estão alguns dos principais comandos e funções do Plotly:
 
@@ -386,7 +391,7 @@ A biblioteca é amplamente usada para criar gráficos atraentes e interativos em
 <details>
 <summary>SCIPY</summary>
 
-## SCIPY
+## 🔹 SCIPY
 
 O SciPy é uma biblioteca em Python que fornece funções para diversas operações matemáticas, científicas e de engenharia. 
 Aqui estão algumas das principais funções e módulos do SciPy:
@@ -443,7 +448,7 @@ funções que podem ser exploradas para resolver problemas específicos nessas �
 <details>
 <summary>SCIKIT-LEARN</summary>
 
-## SCIKIT-LEARN
+## 🔹 SCIKIT-LEARN
 
 O scikit-learn é uma das bibliotecas mais populares para aprendizado de máquina em Python. Aqui estão algumas das principais classes e funções que você encontrará no scikit-learn:
 
@@ -499,7 +504,7 @@ avaliarem modelos de aprendizado de máquina.
 <details>
 <summary>STATSMODELS</summary>
 
-## STATSMODELS
+## 🔹 STATSMODELS
 
 O Statsmodels é uma biblioteca em Python focada em estatísticas e modelagem estatística. 
 Ele fornece várias ferramentas para realizar análises estatísticas, ajustar modelos e explorar dados. 
@@ -550,7 +555,7 @@ A biblioteca oferece uma ampla gama de recursos estatísticos e de modelagem par
 <details>
 <summary>PYCARET</summary>
 
-## PYCARET
+## 🔹 PYCARET
 
 O PyCaret é uma biblioteca de automação de tarefas em aprendizado de máquina que simplifica o processo de treinamento, validação e comparação de modelos. Ele oferece uma interface fácil de usar para realizar várias tarefas relacionadas a machine learning. Aqui estão alguns dos principais comandos do PyCaret:
 
@@ -596,7 +601,7 @@ A biblioteca é especialmente útil para quem deseja realizar experimentações 
 <details>
 <summary>TENSORFLOW</summary>
 
- ## TENSORFLOW
+ ## 🔹 TENSORFLOW
 
 O TensorFlow é uma biblioteca popular de código aberto para aprendizado de máquina e desenvolvimento de modelos de aprendizado profundo. 
 Aqui estão algumas das principais funções e comandos do TensorFlow:
@@ -654,7 +659,7 @@ A biblioteca é amplamente usada na comunidade de aprendizado de máquina e inte
 <details>
 <summary>PYTORCH</summary>
 
- ## PYTORCH
+ ## 🔹 PYTORCH
 
 O PyTorch é uma biblioteca de aprendizado profundo (deep learning) popular em Python que oferece uma variedade de recursos para criar, treinar e implantar modelos de redes neurais. Aqui estão alguns dos principais comandos e funções do PyTorch:
 
@@ -711,7 +716,7 @@ A biblioteca é amplamente usada em projetos de aprendizado profundo devido à s
 <details>
 <summary>NLTK</summary>
  
-## NATURAL LANGUAGE TOOLKIT
+## 🔹 NATURAL LANGUAGE TOOLKIT
 
 O Natural Language Toolkit (NLTK) é uma biblioteca em Python amplamente usada para processamento de linguagem natural. Ela oferece uma variedade de recursos e funcionalidades para lidar com texto e análise de linguagem natural. Aqui estão alguns dos principais comandos e funcionalidades do NLTK:
 
@@ -768,7 +773,7 @@ escolha popular entre os cientistas de dados e pesquisadores que trabalham com d
 <details>
 <summary>SPACY</summary>
 
-## SPACY
+## 🔹 SPACY
 
 O spaCy é uma biblioteca de processamento de linguagem natural (NLP) em Python que oferece várias funcionalidades poderosas para tarefas como tokenização, 
 análise sintática, reconhecimento de entidades nomeadas, lematização e muito mais. Aqui estão algumas das principais funções e comandos do spaCy:
@@ -823,7 +828,7 @@ treinamento personalizado de modelos e muito mais. É uma ferramenta poderosa pa
 <details>
 <summary>BEAUTIFUL SOUP</summary>
 
-## BEAUTIFUL SOUP 
+## 🔹 BEAUTIFUL SOUP 
 
 O Beautiful Soup é uma biblioteca em Python usada para extrair informações de páginas web e analisar documentos HTML ou XML. Aqui estão alguns dos principais comandos e métodos que você pode usar no Beautiful Soup:
 
@@ -876,7 +881,7 @@ informações relevantes de páginas web para análise e processamento.
 <details>
 <summary>NETWORKX</summary>
 
-## NETWORKX
+## 🔹 NETWORKX
 
 O NetworkX é uma biblioteca em Python usada para análise e visualização de redes complexas, como redes sociais, redes de transporte, 
 redes biológicas, entre outras. Aqui estão algumas das principais funções e comandos do NetworkX:
@@ -932,7 +937,7 @@ Ela é amplamente usada para entender as estruturas e propriedades de redes em d
 <details>
 <summary>SCRAPY</summary>
 
-## SCRAPY
+## 🔹 SCRAPY
 
 O Scrapy é um framework de web scraping em Python que permite extrair dados de websites de forma estruturada e automatizada. Aqui estão alguns dos principais comandos e conceitos do Scrapy:
 
@@ -985,7 +990,7 @@ Ele é uma ferramenta muito poderosa para coleta de dados na web e oferece muito
 <details>
 <summary>OPENCV</summary>
 
-## OPENCV
+## 🔹 OPENCV
 
 O OpenCV (Open Source Computer Vision Library) é uma biblioteca popular em Python para processamento de imagens e visão computacional. Aqui estão algumas das principais funções e comandos do OpenCV:
 
@@ -1040,7 +1045,8 @@ A biblioteca é amplamente usada em projetos de visão computacional e processam
 <details>
 <summary>XGBOOST</summary>
  
-## XGBOOST
+## 🔹 XGBOOST
+
 O XGBoost (Extreme Gradient Boosting) é uma biblioteca popular para aprendizado de máquina baseado em árvores. Aqui estão alguns dos principais comandos e funções do XGBoost em Python:
 
 ### **Importação da Biblioteca:**
@@ -1119,7 +1125,7 @@ taxas de aprendizado, regularização e mais. A seleção adequada de parâmetro
 <details>
 <summary>LIGHTGBM</summary>
 
-## LIGHTGBM
+## 🔹 LIGHTGBM
 
 O LightGBM é um algoritmo de gradient boosting framework de código aberto que é projetado para ser eficiente em termos de uso de recursos e oferece 
 desempenho superior em muitos cenários. Aqui estão alguns dos principais comandos e funções do LightGBM:
@@ -1191,7 +1197,7 @@ parâmetros e funcionalidades em detalhes: [Documentação do LightGBM](https://
 <details>
 <summary>CATBOOST</summary>
  
-## CATBOOST
+## 🔹 CATBOOST
 
 O CatBoost é uma biblioteca de gradient boosting que é especialmente projetada para trabalhar com dados categóricos e tem um desempenho excepcional em 
 muitos casos. Aqui estão alguns dos principais comandos e funções do CatBoost:
