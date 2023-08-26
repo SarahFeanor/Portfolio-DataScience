@@ -1,9 +1,12 @@
+[![Linkedin Badge](https://img.shields.io/badge/-SarahFR-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarahfrezende/)](https://www.linkedin.com/in/sarahfrezende/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:sarahfrezende@gmail.com) [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-360/) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) 
+
 
 [![capa](https://cdn.discordapp.com/attachments/1088554408469602305/1140659228382613654/Black_Technology_LinkedIn_Banner_5.jpg)](https://github.com/SarahFeanor?tab=repositories)
 
-<sub> 🔗 [LinkedIn](https://www.linkedin.com/in/sarahfrezende/) | [Medium](https://medium.com/@sarahfrezende) | [Portfólio Power BI](https://github.com/SarahFeanor/Portfolio_PowerBI)
+<sub> 🔗 Visite também >> [Portfólio de Power BI](https://github.com/SarahFeanor/Portfolio_PowerBI)
 
-# Portfólio - Ciência de Dados 
+# Portfólio de Ciência de Dados
 
 Bem-vindo(a) ao meu repositório de projetos de Data Science, criado com o propósito de estudo. Aqui, compartilho projetos desenvolvidos para aprimorar minhas habilidades nessa área em constante evolução. 
 
