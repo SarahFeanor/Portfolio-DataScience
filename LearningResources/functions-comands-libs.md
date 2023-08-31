@@ -5,6 +5,9 @@
 Este espaço foi concebido com o propósito de fortalecer e aprofundar meus estudos.
 Neste repositório, você descobrirá uma compilação dos comandos, funções e bibliotecas que faço uso em minhas análises. 
 
+<details>
+<summary>content</summary>
+
 ## 🔹 _Pandas_
 
 O pandas é uma ferramenta essencial em Python para análise e manipulação de dados. 
