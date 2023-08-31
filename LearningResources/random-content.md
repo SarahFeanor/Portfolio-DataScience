@@ -1,6 +1,6 @@
 <sub> Data Science | By Sarah Faria Rezende </sub>
 
-# ⚡ Functions - Commands - Libraries
+# ⚡ Random Content
 
 Este espaço foi concebido com o propósito de fortalecer e aprofundar meus estudos.
 Neste repositório, você descobrirá uma compilação dos comandos, funções e bibliotecas que faço uso em minhas análises. 
