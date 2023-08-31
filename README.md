@@ -45,7 +45,7 @@ _Ferramentas: Pandas, Seaborn, Matplotlib_
 
 ## 📚 Conteúdo de Estudo
 
-* [ Conjunto de Comandos, funções e bibliotecas que utilizo em minhas análises](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/LearningResources/Python.md)
+* [ Conjunto de Comandos, funções e bibliotecas que utilizo em minhas análises](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/LearningResources/Python_For_Data_Science.md)
 
 ## 📝 Artigos
 
