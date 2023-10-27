@@ -47,10 +47,6 @@ _Ferramentas: Pandas, Seaborn, Matplotlib_
 
 * [ Conjunto de Comandos, funções e bibliotecas que utilizo em minhas análises](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/LearningResources/Python_For_Data_Science.md)
 
-## 📝 Artigos
-
-* [Python no Excel: Uniram a Potência do Python à Flexibilidade do Excel](https://medium.com/@sarahfrezende/python-no-excel-uniram-a-pot%C3%AAncia-do-python-%C3%A0-flexibilidade-do-excel-4a13c3f67f49).
-* [Desvendando o Poder da Inteligência de Negócios (BI) na Tomada de Decisões Estratégicas](https://medium.com/@sarahfrezende/desvendando-o-poder-da-inteligência-de-negócios-bi-na-tomada-de-decisões-estratégicas-ededfd24e191)
 
 ## 📚 Skills
 
