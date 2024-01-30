@@ -42,18 +42,18 @@ _Ferramentas: Pandas, Seaborn, Matplotlib_
 
  _Ferramentas: Pycaret, Numpy, Sklearn, Imblearn, Pandas, Seaborn, Matplotlib_
 
-## 📚 Conteúdo de Estudo
-
-* [ Conjunto de Comandos, funções e bibliotecas que utilizo em minhas análises](https://github.com/SarahFeanor/Portfolio-DataScience/blob/main/LearningResources/Python_For_Data_Science.md)
-
 
 ## 📚 Skills
 
 <sub> Data Scientist | Data Analyst | BI Analyst   </sub>
 
 
-* Possuo conhecimentos em **Python** com foco em Análise de Dados e Ciência de Dados, bem como habilidades em bibliotecas essenciais como **Pandas**, **Numpy**, **Scikit-Learn** e **Matplotlib**. 
+* Possuo conhecimentos em **Python** com foco em Análise de Dados e Ciência de Dados, bem como habilidades em bibliotecas essenciais como **Pandas**, **Numpy**, **Scikit-Learn** e **Matplotlib**.
 * Adicionalmente, possuo competências em **SQL/MySQL**, **ETL**, **Power BI**, **Excel**, **DataBricks**, criação de narrativas com dados, conhecimentos estatísticos, análises preditivas e interpretação de séries temporais. Essa combinação me capacita a elaborar e avaliar procedimentos e dados em sistemas de bancos de dados, satisfazendo as demandas dos clientes de maneira eficaz. 📊🔍💡
+
+   <div id="header" align="center">
+  <img src="https://www.puttiapps.com/home-2021-may/business_analitics-3/" width="150"/>
+ </div>
 
 
   
