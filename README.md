@@ -8,7 +8,7 @@
 
 # Portfólio de Ciência de Dados
 
-Bem-vindo(a) ao meu repositório de projetos de **Data Science**, criado com o propósito de estudo. Aqui, compartilho projetos desenvolvidos para aprimorar minhas habilidades nessa área em constante evolução. 
+Bem-vindo(a) ao meu repositório de projetos de **Data Science**, criado com o propósito de estudo. Aqui, compartilho projetos desenvolvidos para aprimorar minhas habilidades nessa área em constante evolução.
 
 Vale ressaltar que todos os dados são exclusivamente para fins de demonstração, garantindo total privacidade e conformidade **ética**. 
 
