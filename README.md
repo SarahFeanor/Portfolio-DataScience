@@ -4,7 +4,7 @@
 
 [![capa](https://cdn.discordapp.com/attachments/1088554408469602305/1140659228382613654/Black_Technology_LinkedIn_Banner_5.jpg)](https://github.com/SarahFeanor?tab=repositories)
 
-<sub> 🔗 Visite também >> [Portfólio de Power BI](https://github.com/SarahFeanor/Portfolio_PowerBI) </sub>
+<sub> 🔗 Visite também >> [Portfólio de Power BI e SQL](https://github.com/SarahFeanor/Portfolio_PowerBI) </sub>
 
 # Portfólio de Ciência de Dados
 
