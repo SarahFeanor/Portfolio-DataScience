@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:sarahfrezende@gmail.com) [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-360/) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) 
 
 
-[![capa](https://cdn.discordapp.com/attachments/1088554408469602305/1140659228382613654/Black_Technology_LinkedIn_Banner_5.jpg)](https://github.com/SarahFeanor?tab=repositories)
+[![capa](https://media.discordapp.net/attachments/1063559719291199599/1219014601979465879/Black_Technology_LinkedIn_Banner_5.jpg?ex=6609c2d1&is=65f74dd1&hm=7c588be6d899e76a8efe8c624353da14f1cef905acc5fbf35247a26683cb2ce6&=&format=webp&width=1024&height=256)](https://github.com/SarahFeanor?tab=repositories)
 
 <sub> 🔗 Visite também >> [Portfólio de Power BI e SQL](https://github.com/SarahFeanor/Portfolio_PowerBI) </sub>
 
